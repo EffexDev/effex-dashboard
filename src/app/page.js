@@ -11,7 +11,7 @@ export default function Home() {
           <div className="w-[80vw] flex flex-row gap-4">
             <Card title="Youtube" content="Video watching platform"/>
             <Card title="Youtube" content="Video watching platform"/>
-            <Card title="Youtube" content="Video watching platform" image="/youtube.png" buttonText="Watch videos" altText="Youtube Logo"/>
+            <Card href="https://youtube.com" title="Youtube" content="Video watching platform" image="/youtube.png" buttonText="Watch videos" altText="Youtube Logo"/>
           </div>
           <div className="w-[80vw] flex flex-row gap-4 mt-4">
              <Card title="Youtube" content="Video watching platform"/>
