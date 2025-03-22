@@ -13,11 +13,11 @@ export default function Home() {
 
             <Card href="https://scriptjar.jordancartledge.com.au" title="script.jar" content="A template management platform" buttonText="Open the jar" altText="🫙"/>
 
-            <Card href="https://github.com/EffexDev" title="Github" content="My code repo" image="/github.png" buttonText="Merge together" altText="Github logo"/>
+            <Card href="https://github.com/EffexDev" title="Github" content="My code repositories" image="/github.png" buttonText="Merge together" altText="Github logo"/>
 
-            <Card title="Youtube" content="Video watching platform"/>
+            <Card href="https://vercel.com/effexdev-projects" title="Vercel" image="/vercel.svg" content="Frontend hosting platform" buttonText="Host a project" altText="Vercel logo"/>
 
-            <Card title="Youtube" content="Video watching platform" image="/youtube.png" buttonText="Watch videos" altText="Youtube Logo"/>
+            <Card href="https://railway.com/dashboard" title="Railway" content="Backend and Database Hosting" image="/railway.svg" buttonText="Create a server" altText="Railway Logo"/>
 
             </div>
       </div>
