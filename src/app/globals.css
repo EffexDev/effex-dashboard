@@ -11,6 +11,15 @@ p, button {
   font-size: small;
 }
 
+body {
+  background-image: url('/cityScape.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+
 /* div {
   border: 1px solid red;
 } */
