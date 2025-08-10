@@ -4,7 +4,7 @@ import { useState } from "react";
 
 export default function AnimatedInfoCard({title, content, children}) {
 
-const [open, setOpen] = useState(true);
+const [open, setOpen] = useState(false);
 
     return (
         <div className="relative">
