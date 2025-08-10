@@ -12,6 +12,7 @@ p, button {
 }
 
 body {
+  background-color: black;
   background-image: url('/cityScape.jpg');
   background-size: cover;
   background-position: center;

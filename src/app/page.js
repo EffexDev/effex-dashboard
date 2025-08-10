@@ -4,7 +4,7 @@ import Menu from "./MenuBar";
 
 export default function Home() {
   return (
-    <div className="relative flex flex-col w-full min-h-screen items-center justify-center py-10">
+    <div className="relative flex flex-col w-full min-h-screen items-center justify-center py-10 ">
       <div className="w-[90%] sm:w-[80%]">
         <Greeting />
         <div className="relative grid grid-cols-1 sm:grid-cols-3 gap-4 items-center justify-center">
