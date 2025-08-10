@@ -4,6 +4,7 @@ import Menu from "../MenuBar";
 import AnimatedButton from "../AnimatedButton";
 import BlurredCard from "../BlurredCard";
 import AnimatedInfoCard from "../AnimatedInfoCard";
+import Avatar from "../Avatar";
 
 export default function Services() {
   return (
@@ -21,6 +22,8 @@ export default function Services() {
           <AnimatedButton href="https://github.com/effexdev">Test Button</AnimatedButton>
 
           <AnimatedInfoCard title="Fast, Efficient Design" content="Built with a bespoke React UI library">Making use of a custom React library, I can build you a website quickly and efficiently without compromising on aesthetics or usability</AnimatedInfoCard>
+
+          <Avatar image="github.png" />
 
         </div>
       </div>

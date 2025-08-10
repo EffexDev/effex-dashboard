@@ -7,6 +7,7 @@ export default function Home() {
     <div className="relative flex flex-col w-full min-h-screen items-center justify-center py-10 ">
       <div className="w-[90%] sm:w-[80%]">
         <Greeting />
+        <Menu />
         <div className="relative grid grid-cols-1 sm:grid-cols-3 gap-4 items-center justify-center">
             <BlurredCard href="https://jordancartledge.com.au "title="Portfolio" content="My web dev portfolio" image="/effexForge.jpg" buttonText="See my work" altText="Jordan Cartledge's Dev profile"/>
 
